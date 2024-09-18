@@ -1,20 +1,9 @@
-[![Python 3.5](https://img.shields.io/badge/Python-3.5-yellow.svg)](http://www.python.org/download/)
-[![python](https://img.shields.io/badge/python-2.7-brightgreen.svg)](https://www.python.org/downloads/release/python-2714/)
-[![OS](https://img.shields.io/badge/Tested%20On-Linux%20%7C%20Android-yellowgreen.svg)](https://termux.com/)
 
-
-
-
-
-
-# Wifi-Hacking.py  ![alt tag](http://icons.iconarchive.com/icons/icons8/ios7/48/Network-Wifi-Logo-icon.png)
+# Wifi-Hacking.py
 
 
 
 No Need To Ask Wifi Password, HACK it..! This Cyber Security Tool, Will Hack For You Any Wifi-Password..!
-
-
-[![asciicast](https://asciinema.org/a/362908.svg)](https://asciinema.org/a/362908)
 
 
 ## Feutures and Contains :
@@ -61,30 +50,14 @@ No Need To Ask Wifi Password, HACK it..! This Cyber Security Tool, Will Hack For
 
 ```bash
 1) sudo apt-get update && apt-get install git
-2) sudo git clone https://github.com/ankit0183/Wifi-Hacking
-3) cd Wifi-Hacking/
+2) sudo git clone https://github.com/N4tzz-Official/WIfiAttack
+3) cd WIfiAttack
 4) sudo python3 Wifi-Hacking.py
 ```
 
 ## Creator
 
-(Ankit Kanojiya) Hey, Dont Forget To say Thanks me :smile:
-
-
-# SCREENSHOT
-
-
-![](Snapshots/0.png)
-![](Snapshots/1.png)
-![](Snapshots/2.png)
-![](Snapshots/3.png)
-![](Snapshots/4.png)
-![](Snapshots/5.png)
-![](Snapshots/6.png)
-![](Snapshots/7.png)
-
-
-
+(N4tzz) Hey, Dont Forget To say Thanks me :smile:
 
 
 # Feel Free To Contact Me.
@@ -92,10 +65,7 @@ No Need To Ask Wifi Password, HACK it..! This Cyber Security Tool, Will Hack For
 
  ### if you like my work, Buy me a Cup of Coffee PhonePay/PayTm/GPAy 9768367597
 
-### - [Whats App chat](https://wa.me/+919768367597)
-
-### - [Instagram](https://www.instagram.com/ankit_kanojiiya/)
-
+### - [Whats App chat](https://wa.me/+62085747537979)
 
 # Disclaimer 
 
@@ -115,8 +85,7 @@ Wifi-Hacking tool not responsible for misuse and for illegal purposes. Use it on
 If this CyberSecurity tool has been useful for you, feel free to thank me by buying me a coffee. :)
  
  
- 
- 
+
 ### Happy Hacking ( Privacy & Security No Such Things Exists in digital World, We Can Hack Everything )
 
 
