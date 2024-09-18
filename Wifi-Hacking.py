@@ -18,7 +18,7 @@ def intro():
 ██║███╗██║██║██╔══╝  ██║╚════╝██║     ██╔══██╗██╔══██║██║     ██╔═██╗ ██╔══╝  ██╔══██╗
 ╚███╔███╔╝██║██║     ██║      ╚██████╗██║  ██║██║  ██║╚██████╗██║  ██╗███████╗██║  ██║
  ╚══╝╚══╝ ╚═╝╚═╝     ╚═╝       ╚═════╝╚═╝  ╚═╝╚═╝  ╚═╝ ╚═════╝╚═╝  ╚═╝╚══════╝╚═╝  ╚═╝
-                                                        Coded By BlackHatHacker-Ankit
+                                                        Coded By N4tzzSquad
 ---------------------------------------------------------------------------------------                                                                     
 (1)Start monitor mode       
 (2)Stop monitor mode                        
@@ -185,14 +185,9 @@ def intro():
         cmd = os.system("clear")
         print("""
 Hi.
-My Name is 4nk17, A Ethical Hacker,Bug Bounty Hunter,Currently Working as Cyber Security Researcher.
-you can find on Instagram
+My Name is N4tzz, A Ethical Hacker,Bug Bounty Hunter,Currently Working as Cyber Security and crypto trading and i have a squad! :smile
 
-https://www.instagram.com/ankit_kanojiiya/
-
-Contack me +919768367597
-
-Feel Free to Contact,
+Contack me +62085747537979
 
 """)
         quit()
